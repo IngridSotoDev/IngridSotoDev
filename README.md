@@ -13,4 +13,4 @@ const IngridSoto = {
 };
 ```
 
-### See my work activities at: https://gitlab.com/IngridSotoDev
+### See my job activities at: https://gitlab.com/IngridSotoDev
