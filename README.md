@@ -12,3 +12,5 @@ const IngridSoto = {
   inFreeTime: ['Studying', 'Walk With My Dog', 'Reading', 'Watching Series', 'Playing Guitar']
 };
 ```
+
+### See my work activities at: https://gitlab.com/IngridSotoDev
