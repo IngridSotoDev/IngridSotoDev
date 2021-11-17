@@ -5,7 +5,8 @@
 
 ```javascript
 const IngridSoto = {
-  languages: ['HTML', 'CSS', 'JavaScript', 'ReactJS'],
+  languages: ['HTML', 'CSS', 'JavaScript'],
+  frameworks: ['ReactJS', 'Angular', 'Express'],
   location: 'Salvador - Bahia - Brasil',
   age: 27,
   alwaysLearning: ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Angular', 'TypeScript', 'NodeJS'],
