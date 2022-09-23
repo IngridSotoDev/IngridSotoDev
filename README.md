@@ -1,5 +1,5 @@
 ## Hi, i'm Ingrid Soto!
-#### Front-end developer at aiqfome 💻
+#### Front-end developer at [aiqfome](https://github.com/aiqfome) 💻
 
 ##### About me:
 
