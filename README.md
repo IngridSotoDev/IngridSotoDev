@@ -1,15 +1,15 @@
-## Hi, i'm Ingrid Soto!
-#### Front-end developer at [aiqfome](https://github.com/aiqfome) 💻
+## hi, i'm ingrid soto!
+#### front-end developer at [aiqfome](https://github.com/aiqfome) 💻
 
-##### About me:
+##### about me:
 
 ```javascript
-const IngridSoto = {
+const ingrid_soto = {
   languages: ['HTML', 'CSS', 'JavaScript', 'TypeScript'],
   frameworks: ['React', 'Express', 'NextJS'],
   location: 'Salvador - Bahia - Brasil',
   age: 28,
-  alwaysLearning: ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'TypeScript', 'NodeJS'],
-  inFreeTime: ['Studying', 'Walk With My Dog', 'Reading', 'Watching Series', 'Playing Guitar']
+  always_learning: ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'TypeScript', 'NodeJS'],
+  in_free_time: ['Studying', 'Walk With My Dog', 'Reading', 'Watching Series', 'Playing Guitar']
 };
 ```
