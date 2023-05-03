@@ -12,7 +12,7 @@
 
 [en] I love learning new things and reading documentation 🤪. In my free time i'm usually studying, eating a lot, watching series, playing the ukulele or walking with Simba 🐶
 
----
+
 <div align="center">
   <h2>:rocket: techs:</h2>
   <img height="30em" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt='logo react.js' />
@@ -30,7 +30,7 @@
   <img height="30em" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt='logo tailwind css' />
 </div>
 
----
+
 <div align="center">
   <h2>:monocle_face: github stats:</h2>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IngridSotoDev&show_icons=true&theme=radical&count_private=true&hide=contribs,issues" />
