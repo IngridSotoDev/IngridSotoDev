@@ -1,16 +1,16 @@
 # Hi, i'm Ingrid Soto! 👋
 
 <div style="display: flex; align-items: center; gap: 10px; width: 100%;">
-  <h2>👩‍💻 Frontend Developer at</h2>
-  <img height="30em" src="https://img.shields.io/badge/Aiqfome-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white" alt='logo aiqfome' />
+  <h2>👩‍💻 Frontend Developer at <img height="30em" src="https://img.shields.io/badge/Aiqfome-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white" alt='logo aiqfome' /></h2>
+  
 </div>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-jung/)](https://www.linkedin.com/in/IngridSotoDev/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ingridsotodev@gmail.com)](mailto:ingridsotodev@gmail.com)
 
-### [pt-br] Amo aprender coisas novas e ler documentações 🤪. No meu tempo livre costumo estudar, comer muito, assistir séries, tocar ukulele ou passear com Simba 🐶
+[pt-br] Amo aprender coisas novas e ler documentações 🤪. No meu tempo livre costumo estudar, comer muito, assistir séries, tocar ukulele ou passear com Simba 🐶
 
-### [en] I love learning new things and reading documentation 🤪. In my free time i'm usually studying, eating a lot, watching series, playing the ukulele or walking with Simba 🐶
+[en] I love learning new things and reading documentation 🤪. In my free time i'm usually studying, eating a lot, watching series, playing the ukulele or walking with Simba 🐶
 
 ---
 <div align="center">
