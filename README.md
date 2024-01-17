@@ -1,7 +1,7 @@
 # Hi, i'm Ingrid Soto! 👋
 
 <div style="display: flex; align-items: center; gap: 10px; width: 100%;">
-  <h2>👩‍💻 Frontend Developer at <img height="30em" src="[https://cayena.com/wp-content/uploads/2023/10/C-300x81.png]" alt='logo cayena' /></h2>
+  <h2>👩‍💻 Frontend Developer at Cayena</h2>
   
 </div>
 
