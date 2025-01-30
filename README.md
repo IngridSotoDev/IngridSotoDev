@@ -29,10 +29,3 @@
   <img height="30em" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt='logo styled-components' />
   <img height="30em" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt='logo tailwind css' />
 </div>
-
-
-<div align="center">
-  <h2>:monocle_face: github stats:</h2>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IngridSotoDev&show_icons=true&theme=radical&count_private=true&hide=contribs,issues" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridSotoDev&layout=compact&theme=radical&count_private=true&hide=contribs,issues" />
-</div>
